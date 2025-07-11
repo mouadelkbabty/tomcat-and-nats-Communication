@@ -1,6 +1,4 @@
-Certainly! Here's a README you can use for your GitHub project:
 
----
 
 # NATS Date & Time Hub
 
@@ -74,6 +72,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **NATS**: This project is built on top of the NATS messaging system.
 - **Python**: Thanks to the Python community for the tools and libraries that make this possible.
 
----
-
-Simply copy and paste this into your `README.md` file on GitHub.
